@@ -1,0 +1,9 @@
+.pipenv/
+
+Pipfile.lock
+
+Pipfile.lock
+
+# Ignore other system files
+.DS_Store
+Thumbs.db
